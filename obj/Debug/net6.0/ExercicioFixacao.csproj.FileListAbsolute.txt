@@ -1,0 +1,15 @@
+C:\Users\olegk\OneDrive\Documentos\Projeto OO\ExercicioFixacao\bin\Debug\net6.0\ExercicioFixacao.exe
+C:\Users\olegk\OneDrive\Documentos\Projeto OO\ExercicioFixacao\bin\Debug\net6.0\ExercicioFixacao.deps.json
+C:\Users\olegk\OneDrive\Documentos\Projeto OO\ExercicioFixacao\bin\Debug\net6.0\ExercicioFixacao.runtimeconfig.json
+C:\Users\olegk\OneDrive\Documentos\Projeto OO\ExercicioFixacao\bin\Debug\net6.0\ExercicioFixacao.dll
+C:\Users\olegk\OneDrive\Documentos\Projeto OO\ExercicioFixacao\bin\Debug\net6.0\ExercicioFixacao.pdb
+C:\Users\olegk\OneDrive\Documentos\Projeto OO\ExercicioFixacao\obj\Debug\net6.0\ExercicioFixacao.csproj.AssemblyReference.cache
+C:\Users\olegk\OneDrive\Documentos\Projeto OO\ExercicioFixacao\obj\Debug\net6.0\ExercicioFixacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olegk\OneDrive\Documentos\Projeto OO\ExercicioFixacao\obj\Debug\net6.0\ExercicioFixacao.AssemblyInfoInputs.cache
+C:\Users\olegk\OneDrive\Documentos\Projeto OO\ExercicioFixacao\obj\Debug\net6.0\ExercicioFixacao.AssemblyInfo.cs
+C:\Users\olegk\OneDrive\Documentos\Projeto OO\ExercicioFixacao\obj\Debug\net6.0\ExercicioFixacao.csproj.CoreCompileInputs.cache
+C:\Users\olegk\OneDrive\Documentos\Projeto OO\ExercicioFixacao\obj\Debug\net6.0\ExercicioFixacao.dll
+C:\Users\olegk\OneDrive\Documentos\Projeto OO\ExercicioFixacao\obj\Debug\net6.0\refint\ExercicioFixacao.dll
+C:\Users\olegk\OneDrive\Documentos\Projeto OO\ExercicioFixacao\obj\Debug\net6.0\ExercicioFixacao.pdb
+C:\Users\olegk\OneDrive\Documentos\Projeto OO\ExercicioFixacao\obj\Debug\net6.0\ExercicioFixacao.genruntimeconfig.cache
+C:\Users\olegk\OneDrive\Documentos\Projeto OO\ExercicioFixacao\obj\Debug\net6.0\ref\ExercicioFixacao.dll
